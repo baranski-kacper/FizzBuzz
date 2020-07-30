@@ -17,6 +17,7 @@ namespace FizzBuzz
                 var CheckValue = new FizzBuzz();
                 var value = Liczba();               
                 Console.WriteLine(CheckValue.Check(value));
+
             }
             catch (Exception ex)
             {
